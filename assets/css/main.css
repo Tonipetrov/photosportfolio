@@ -188,7 +188,7 @@
 
 	#header {
 		position: relative;
-		background-image: url(file:///C:/Users/tpet/Desktop/portfolio/portfolio/images/html5up-parallelism/images/thumbs/photographer.jpg);
+		background-image: url("../../images/thumbs/photographer.jpg");
 		color: #fff;
 		cursor: default;
 	}
@@ -279,7 +279,7 @@
 				/* padding: 0 1%; */
 				xmin-height: 212px;
 				vertical-align: middle;
-				background-image: url(file:///C:/Users/tpet/Desktop/portfolio/portfolio/images/html5up-parallelism/images/thumbs/photographer.jpg);
+				background-image: url("../../images/thumbs/photographer.jpg");
 			}
 
 				#header:before {
